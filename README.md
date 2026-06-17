@@ -62,7 +62,7 @@ FDE Growth Plan 是一个面向 Forward Deployed Engineering（FDE，前沿部�
 
 ## FDE Growth Plan Skill
 
-这个 skill 用于可配置学习周期、每日学习推送、动手任务、学习笔记、项目练习和面试准备。
+这个 skill 用于可配置学习周期、每日学习推送、能力诊断、项目评审、生产检查、交付模板生成、学习笔记、项目练习、作品集和面试准备。
 
 它覆盖 FDE 岗位定义、职业定位、4/8/12/24 周学习周期、Day 1 摸底和能力评估、Prompt/RAG/Agent/Workflow/MCP/Evals 基础、AI 产品与客户场景分析、Demo 到 Production 的生产化思维、部署、监控、成本、安全、生产就绪、客户需求发现、ROI 判断、作品集和面试准备。
 
@@ -70,6 +70,17 @@ FDE Growth Plan 是一个面向 Forward Deployed Engineering（FDE，前沿部�
 
 ```text
 今天的FDE学习
+```
+
+也可以直接使用这些入口：
+
+```text
+诊断我的FDE能力
+评审这个FDE项目
+检查我的Demo能不能上线
+生成生产准入门禁矩阵
+打磨FDE作品集
+准备FDE面试
 ```
 
 第一天会先进行摸底，了解你的当前背景、学习目标、学习周期、每天学习时长、工程和 AI 基础、偏好的行业场景、输出偏好，以及能力自评。完成摸底后，每天的学习内容会包含主题、概念讲解、案例、动手任务、验收标准和进阶思考。
